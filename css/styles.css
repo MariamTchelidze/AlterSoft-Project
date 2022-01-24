@@ -133,12 +133,12 @@ h1 {
 .button2:hover{
     background: linear-gradient(#00B1FF, #00A2EA);
     color: white;
-    box-shadow: 2px 10px #34D5FC4D;
+    box-shadow: 0px 18px 29px -7px rgba(0, 176, 254, 0.15);
 }
 .button3:hover {
     background: linear-gradient(#00B1FF, #00A2EA);
     color: white;
-    box-shadow: 2px 10px #34D5FC4D ;
+    box-shadow: 0px 18px 29px -7px rgba(0, 176, 254, 0.15);
 }
 .unicorn1{
     height: 501px;
